@@ -23,8 +23,8 @@ For now, this won't be too detailed, will have poor formatting, and likely isn't
 1. Make the script executable - `chmod +x install_kali.sh`
 1. Run the install_kali.sh script with sudo - `sudo ./install_kali.sh`
     1. When prompted, the default options are suggested to be used
-1. Once the script finishes reboot the VM and you should have a full Kali install
-    1. Burpsuite doesn't seem to be installed so you probably want to install that `sudo apt install burpsuite`
+1. Once the script finishes reboot the VM and you should have a Kali Linux installation
+    1. Some tools/software may not be installed so you will just have to install them separately.
 
 
 
