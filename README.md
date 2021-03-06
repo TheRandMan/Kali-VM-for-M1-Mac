@@ -1,4 +1,7 @@
 # Kali VM on M1 Mac
+
+## DEPRECATED AS KALI NOW HAS AN OFFICIAL ISO FOR VIRTUALIZATION ON M1 MACS
+
 How to set up a Kali Linux VM on a M1 Mac with Parallels Technical Preview. Most of this is not my own findings. I'm just piecing it together in an easy to follow guide for my own notes and to share with others.
 
 For now, this won't be too detailed, will have poor formatting, and likely isn't 100% perfect but it should be enough to get you set up.
